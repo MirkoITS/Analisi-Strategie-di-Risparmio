@@ -9,5 +9,6 @@ L'obiettivo di Tesar è sviluppare un sistema analitico che, basandosi sui dati 
 
 Il team di analisti dati di Tesar deve condurre un'analisi dettagliata dei dati storici, utilizzando tecniche statistiche e algoritmi di Machine Learning al fine di identificare pattern e trend significativi relativi alla produzione, alla gestione degli scarti, all'efficienza delle macchine e ad altri parametri critici per l'attività aziendale. I risultati devono essere presentati tramite un report interattivo, offrendo al cliente Wonder una panoramica completa delle potenziali aree di miglioramento e delle azioni consigliate per ottimizzare le performance aziendali.
 
+
 # Documentazione
 Per ulteriori dettagli, consultare la [documentazione completa](./Docs.pdf).
