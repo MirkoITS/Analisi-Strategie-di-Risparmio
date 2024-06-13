@@ -1,7 +1,7 @@
 # Contesto del Progetto
 L'azienda Tesar S.P.A. ha riconosciuto la necessità di ottimizzare il processo di monitoraggio dell'attività aziendale di Wonder S.P.A. al fine di identificare inefficienze e aree di miglioramento per ridurre i costi operativi e aumentare l'efficienza complessiva.
 
-Il progetto prevede lo sviluppo di modelli analitici avanzati per fornire al cliente Wonder un supporto decisionale efficace e un quadro dettagliato delle prestazioni aziendali dal 10/09/2018 al 11/02/2024.
+Il progetto prevede lo sviluppo di modelli analitici avanzati per fornire al cliente Wonder un supporto decisionale efficace e un quadro dettagliato delle prestazioni aziendali dal _10/09/2018_ al _11/02/2024_.
 
 
 # Problema da Risolvere
